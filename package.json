@@ -1,7 +1,7 @@
 {
   "name": "@edenjs/prometheus",
   "description": "nothing yet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "express-prom-bundle": "^5.1.5",
     "prom-client": "^11.3.0"

@@ -4,9 +4,6 @@ const config     = require('config');
 const Daemon     = require('controller');
 const promBundle = require('express-prom-bundle');
 
-// Require models
-const Notification = model('notification');
-
 /**
  * Build notification controller
  */

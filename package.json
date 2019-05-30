@@ -1,5 +1,5 @@
 {
-  "name": "edenjs_prometheus",
+  "name": "@edenjs/prometheus",
   "description": "nothing yet",
   "version": "1.0.0",
   "dependencies": {

@@ -3,7 +3,8 @@
   "description": "nothing yet",
   "version": "1.0.0",
   "dependencies": {
-    "express-prom-bundle": "^5.1.5"
+    "express-prom-bundle": "^5.1.5",
+    "prom-client": "^11.3.0"
   },
   "engines": {
     "node": ">= 8.0.0"
